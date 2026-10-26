@@ -12,3 +12,5 @@ l은 link
 rwx : r은 소유자접근권한(쓰기권한) read  write 읽기권한  execute 실행권한
 . 하나는 현재 디렉토리를 의미
 .. 은 상위 디렉토리를 의미
+mkdir : make Directory 폴더를 만든다  mkdir 폴더명   
+입력 후 ls로 확인하면 kant가 만들어진 걸 볼 수 있다
